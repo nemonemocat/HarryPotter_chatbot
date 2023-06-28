@@ -1,0 +1,255 @@
+,ground_truth,pred_persona_conc
+0,What terrible things? Who's plotting them?,I know. I'm not afraid of it.
+1,Really.,"Yes, very much so."
+2,Ravenclaw Common Room. Got to start somewhere.,To the castle.
+3,Brilliant.,Yeah.
+4,N-nothing. I'm fine.,It’s a broom.
+5,Yes. Why?,Positive.
+6,How’d you...?,Hello.
+7,NO!!!,"Sir, I'm not wearing glasses!"
+8,"You never did, did you? It was all just a trick.","I mean, I have him. He's just... gone."
+9,"Professor, why am I so important to him?",What's that got to do with me?
+10,Not that I know of.,"Sir, I'm the Minister of Magic."
+11,Oh. Thanks.,Hermione?
+12,Yes.,Yes.
+13,You're a fraud! You've just been taking credit for what a load of other wizards have done!,I don't think it's possible to be both Sirius and Gryffindor at the same time.
+14,Shhh!,What?
+15,"Why, though?",I know. I'm just... I'm here for a reason.
+16,"Blimey, Hermione!",Hermione!
+17,"Who, Kreacher? Who was it?",What was it?
+18,Krum.,His name is... Albert Einstein.
+19,The Misuse of Muggle Artefacts...?,So he was right.
+20,No. He didn't.,Ron?
+21,We got lost.,I think it's time to go.
+22,"I see. Not to be rude or anything, but this isn't a great time for me to have a house-elf in my bedroom.",Dobby!
+23,That's a lie.,What's that supposed to mean?
+24,Um... I don’t know?,It’ll be here when you’re done.
+25,I don’t understand -- what happened?,"No, I'm not."
+26,"Well, you haven't finished it this time. In a few hours Mandrake Draught will be ready and everyone who was petrified will be all right again.",What was it?
+27,I’ll know. I can’t explain. It’s like... they sing to me.,I’ll go with you.
+28,Expulso!,It’s just... there’S no...
+29,"I'm not, believe me…",What?
+30,Ow!,Sirius!
+31,I can't. Hogwarts is my home.,No!
+32,"Yes, well, we don’t exactly see eye-to-eye, sir. What I mean to say is, he’s not like you. He might... misunderstand.",Professor Snape?
+33,"You do believe me, don't you?","I didn't think so, sir."
+34,And you knew this? That’s why you were certain I wouldn’t die?,"I’m sorry, Hermione. I’ve never really been good at this, I know. But I‘m trying."
+35,"I just thought, you know, since neither one of us can take who we’d really like... maybe we’d go together. As friends.",Because I want to be a wizard.
+36,Here.,"I'm here, mate."
+37,Dumbledore asked me to... get to know him.,I’m not playing at all.
+38,"But it can't hurt if someone throws something at you. I mean, it'd just go right through you, wouldn't it?",You’re going to hurt him!
+39,I'm fine.,It's not hurting. It's not going to hurt.
+40,Bye.,I’ll go.
+41,You're doomed.,You're not!
+42,What if he chose wrong?,What's that?
+43,What'd she say?,And she says no.
+44,"A dead one, I think, sir.",Yes.
+45,"That's a brilliant theory, Hermione. With just one tiny little flaw. There's nothing written in this diary.","I don't know, Harry."
+46,Excuse me?,You're right. I've been thinking about it for months.
+47,"Well, I just thought--",No.
+48,The Leaky Cauldron. That's in London --,I'm in the Ministry.
+49,Ron?,I'm Ron.
+50,Don't worry. I think I've got an idea...,What's she been doing?
+51,"Divine. Had ourselves a little late-night snack, did we?",It‘s just the light from the flowers.
+52,Yeah. But she called me a liar!,I did.
+53,Does it hurt? Dying?,We never did.
+54,"No, sir.",No.
+55,I don' t think so Just knocked out.,It’s dead--
+56,Yeah.,"No, sir."
+57,"I didn’t say I wasn’t curious. And, by the way, I don’t sleep with it.",I have no reason to keep this book around...
+58,I don’t know. She’s smart. Funny. Attractive...,It's… my pet.
+59,But Dumbledore can make mistakes. He’s said it himself--,But I trust him more than you.
+60,What's my name doing here?,I know. I know.
+61,Wedding?,But I’m not going to tell her.
+62,"Absolutely not. Besides, I’m just a waste of space. Isn’t that right, Vernon?","I’m not sure, sir."
+63,Voldemort...?,"I'm the oldest Quiddich player in 200 years. I mean, I'm only eighteen, but..."
+64,His Memory Charm backfired. Hasn't got a clue who he is. I keep having to stop him wandering off. He's a danger to himself.,"He's at the front, wearing glasses, and he's wearing a robe."
+65,I'm sure. Nothing.,Positive.
+66,C'mon.,I know.
+67,Okay. Thanks.,But I'm not wearing glasses.
+68,"Thanks, Neville, but--",But Mandraks are plants.
+69,"I don't understand, Professor.",I know.
+70,I know it sounds mad--,"No, I don't think so."
+71,A message...?,What message?
+72,Sir. While I was....,But I'm not afraid of them!
+73,Trust me. I know what I’m doing. Or at least Felix does.,What?
+74,Excellent. Really excellent.,I feel like I'm going to die.
+75,Yeah. Have you ever… you know…,But he was never my Godfather!
+76,Excuse me?,I think...
+77,It’s done.,We can't.
+78,Have you?,"Sir, we’re not going to go to Sluphorn. We"
+79,We’re all hungry.,You hungry?
+80,Apparently so.,Yes.
+81,Spare bit of parchment...,It's a snake.
+82,"I'm so sorry, Professor!",You're not going to go anywhere!
+83,"Do you mean to say that thing that killed the unicorn, that was drinking its blood, that was Voldemortl",No.
+84,"He has found it, sir.",He’ll find it. He’ ll find it anywhere. He'll find it in your dreams.
+85,"Yes, Aunt Petunia.",No.
+86,"I’m sorry, sir. About the other day. Our... misunderstanding.",It’s true.
+87,"Yes, Professor. Fine.",Fine.
+88,Reckon he’s right...,I don't think so.
+89,"Yes. We're friends of Hagrid's. And you... you're... Aragog, aren't you?",But I'm not a man.
+90,You mean... it remembers me?,Snitches get stitches.
+91,Three!,One!
+92,He sent the Dementors away... I saw him. Across the lake…,I... I don't know.
+93,They're heading for Hagrid's!,No!
+94,You’re Aberforth.,You're talking to a snake!
+95,No. Can't give… Umbridge the satisfaction...,I don't want to go there.
+96,Why do you care how I escaped? Voldemort was after your time.,Voldemort was defeated by a mere mortal.
+97,I say we set him free.,What's that smell?
+98,Why are you here? All of you?,It’s not brave. It’ll backfire.
+99,"Well done, Dudley. Finally learned the days of the week, have you.",It's... not...
+100,You sent the Dementors?,What?
+101,Loads.,Yes.
+102,There's no ink.,No.
+103,Dunno. But it must be important. Otherwise Dumbledore wouldn’t ask.,No.
+104,"Me? Jealous? Of course not, it just doesn't seem fair that you hug one friend more than the other, is all...","No, I'm not."
+105,Does match your eyes. Is there a bonnet?,"Hermione, I'm wearing glasses?"
+106,I don't think it works. I think it's defective.,Nothing.
+107,"Where is it now? Did someone take it, Kreacher?","But he could destroy it, right?"
+108,Amazing.,I’m not sure.
+109,"Professor, is that--?",I'm not sure...
+110,Sir?,Because it was fun.
+111,You’re not doing enough.,You’re not doing anything.
+112,But I've never even played Quidditch. What if I make a fool of myself?,You mean I won't be great?
+113,"Yes, sir. It’s just, well, Dumbledore once said that fear of a name only increases fear of the thing itself. It seemed sensible.",Sir?
+114,"They’ll torture you. Even Dudley. If they think you know where I’m going, they’ll stop at noth--",But why?
+115,I know what he is. But we'll take him to the castle.,"Sir, I’m afraid I‘m not allowed to talk to him."
+116,No.,"I’m not, sir."
+117,Hermione. I appreciate the thought-- honestly. But given that we were almost killed by a couple of Death Eaters a few minutes ago...,"We celebrated it, didn‘t we?"
+118,"You mean, they're going to kill Sirius?",That's not how it goes.
+119,That's Moody. But if that's-- then--,No.
+120,Dobby! What are you doing here?,"Hello, sir."
+121,No you don't!,You understand?
+122,Does anyone ever really stop being a Death Eater.,Oh?
+123,It's got my name on it!,But I’m wearing glasses!
+124,I think Dumbledore knows pretty much everything that goes on here.,I don't think so.
+125,But I checked Grimmauld Place! Kreacher said--,What's that?
+126,They’re great.,They’ve been growing for months.
+127,Fine! Go! And tell Dumbledore thanks for nothing!,"I'm sorry, sir, I don't understand?"
+128,Well it sets my teeth on edge. What’s he expecting to hear? Good news?,But... why?
+129,Was? Isn’t it still?,What's that?
+130,But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the Stone for himself. He wants the Stone for Voldemort. With the Elixer of Life Voldemort will be·strong again. He'll... come back.,I’m not --
+131,"Tom... Tom Riddle? What d'you mean, she won't wake? She's not...","But I won't die, either."
+132,"I can come back, sir --",Good to see yeh.
+133,Devastatingly handsome.,You’re wearing glasses?
+134,And where would it take me?,I’ll take that.
+135,"If Dumbledore’s traveling places, it’s news to the Ministry. But get this: that night at Borgin & Burkes? It seems Draco was looking at a Vanishing Cabinet.",What he said.
+136,All right. Let's go.,I'll get it out of here.
+137,Maybe you could tell me now.,But I’m the youngest Quidditch player in 100 years.
+138,"Hello, sir. Wonderful to see you.",I’m sorry.
+139,"Let him breathe, Hermione!",What's that?
+140,"Hold on, Ron!","Sir, I'm not sure what that means."
+141,Brilliant.,"Fine, sir."
+142,Fine. Actually... more than fine.,Yeah.
+143,Hagrid... what're you doing here?,"No, sir."
+144,"Uh… same to you, Luna.","I'm sorry, sir, I don't think I've ever heard of such a thing."
+145,She went down to the courtrooms with Umbridge--,Hermione! You’re not there!
+146,"I found what you wrote in the Daily Prophet very moving, sir. I take it you knew Professor Dumbledore well?",You've got to go back to the library.
+147,"There’s nothing scary about thestrals. They’re gentle things. Anyway, you won’t be going up to school in the carriages. You’ll be going in the boats, remember?","Yes, there will be, sir."
+148,"Sirius gave it to me. He had a matching piece. He said if I ever needed him, all I had to do was look into it.",It’s a broom.
+149,Ginny stole the diary from my room? But why?,I didn't steal it. I just put it in the bag.
+150,Yes.,I'm sorry.
+151,"Do you think the Horcrux is in there, sir?",But I’m not allowed to drink it.
+152,He's asleep.,But I’m not allowed to.
+153,What’re you saying?,"No, it doesn‘t matter."
+154,"Yeah, it doesn't make any sense.","No, sir."
+155,"Just the general behavior, sir. The sneaking around. The jumping when you saw me. ",Because I'm the most powerful man in the world.
+156,I haven't. Not really.,I haven't gotten one in months.
+157,"Look, don’t be shy. If you’ve got something to say, spit it out.",I’m not saying there’ is.
+158,"Well, sir, I wondered if I might ask you something.","I’m not sure, sir."
+159,Why not?,But I want to.
+160,I... just... know.,No.
+161,"Bubble Juice, sir?",I think it's--
+162,Expelliarmus!,"I'm sorry, sir, but I don't think I can help it--"
+163,"If you quit, we'll be out four players!",I know. I know.
+164,"Potentially problematic? I don't know about you, Hermione, but last time I checked I couldn't hold my breath for an hour!","Sir, I'm not wearing glasses, sir."
+165,The Map is never wrong.,I’m sure there’ll be someone.
+166,What crime?,I know.
+167,But I don't have any special powers.,But I didn't think he had a reason to listen to my meetings.
+168,Right... Dunno why he couldn't just come and tell me.,"Yes, sir."
+169,I don't know...,I don't know.
+170,It's got to be.,Yes.
+171,Thanks very. much.,I'm sorry.
+172,What... Who are you?,"It’s no problem, Professor."
+173,Yeah...,"Yes, sir."
+174,That's Madame Maxime!,"It's a bit difficult, isn't it?"
+175,"You mean, we've gone back in time?","What's that, Hermione?"
+176,"Er,,,",I can't!
+177,Because we'd take the mickey out of her?,Because she's not telling us who we're meeting.
+178,Sorry... I still don’t really understand...,What's that?
+179,Let me out.,I’ll try to kill him.
+180,What about her?,I saw him.
+181,Have it your way...,I want you two to meet.
+182,"Yeah, real safe. Attacked by Dementors, that's safe, that is.",Yeah.
+183,I've got presents.,"Thanks, Hermione."
+184,"Uh, Hagrid, what exactly was that?","No place safer? I mean, I've been to the Three Sisters, but I don't think there's anything safer than Hogwarts."
+185,What?,"No, not really."
+186,You called him a slick git not five hours ago.,"Yes, he is."
+187,"Because I need to. Because if I don’t, I don’t know who I am anymore. I’ve lost too many people to lie down now. I’m not interested in what happened between you and your brother, I don’t even care that you’ve given up. I trust the man I knew. I’m going to see this through.",I’m not sure.
+188,Nothing.,"I don't know, sir."
+189,Or twenty.,"I’m sorry, Hermione. I‘m not used to this..."
+190,It's the truth!,You’re lying.
+191,Accio Dittany.,"I’m sorry, Hermione. I didn’t realize you had to go and tell everyone."
+192,"Well, you see, the other day I was in the Restricted Section-- in the library-- and I stumbled upon something rather odd while reading. Something about a bit of rare magic...","Sir, I'm the youngest Quidditch player in 100 years."
+193,Yeah… nerves...,It’s nothing.
+194,"Sir, I thought one couldn’t Apparate within Hogwarts.",I don't care about your arm. It's not worth anything.
+195,"Hermione, I don’t need to have read A History of Magic to know who Gellert Grindelwald is.",Who was he?
+196,Just like that? How?,What?
+197,What?,Who's there?
+198,Don't mention it. Lumos.,You're welcome.
+199,What was that thing you saved me from?,"Sir, I’m not dangerous."
+200,I remember.,"Yeah, I remember."
+201,Dragon balls.,It’s a snake.
+202,I just saw it.,I know everything.
+203,I have to.,No.
+204,"Then again, he can take himself.",But you'll be here!
+205,We were attacked.,I have no idea.
+206,It answers to me.,It means...!
+207,"I didn't ask for this to happen, Ron. Okay? You're being stupid.",I know what.
+208,What about Lord Voldemort?,"There is no school, there is no real world."
+209,Yes.,No.
+210,You. You're the heir of Slytherin. You're Voldemort?,Voldemort's?
+211,Nox.,But I don't want to die.
+212,Someone's going to try and steal it.,I've seen it happen before.
+213,That he escaped from Azkaban. That he killed someone...,I don't know anything about Sirius Black.
+214,What?,No.
+215,Dunno.,I’m not sure.
+216,"Big D? Cool name, but to me, you'll always be Ikkle Duddicums.","I'm sorry, Harry."
+217,It was you!,I think so.
+218,"Well, you can tell Ronald--",Ron?
+219,What was that?,My father never did anything to me.
+220,"Well, you see, I’ve got an open period this morning, Professor--",Yes.
+221,Well... thanks.,I’m not a waste. I’ve been here longer than you.
+222,No.,I'll go on.
+223,What?,What's that?
+224,But I’m telling you. I saw it--,I’ll go and get it.
+225,"But why, sir? If no one will believe me?",I know. But I'm not going to tell it to anybody.
+226,"You're too late, it's gone.","Yes, sir."
+227,"He barely taught me, though. I always felt more open to it after the lessons. Like he was trying to open me to Voldemort--","I'm sorry, Hermione."
+228,"Why do you want to cancel the Triwizard Tournament, sir?",What?
+229,What's she done now?,"I know, Hermione."
+230,He's gone? Now? But this is important! This is about... the Sorcerer's Stone.,"Sir, I’m afraid I don’t understand."
+231,"Maybe Ron's right, Hermione. I mean, look at his family. The whole lot of them have been in Slytherin for centuries.",I'm the youngest Quidditch player in 100 years.
+232,Show me.,But why would he do that?
+233,You don't have a clue! You can't possibly know!,I've never felt pain before...
+234,I have an idea.,No.
+235,I... didn' t know.,I did.
+236,Thanks.,Thanks.
+237,I think I'd take the dragon 'bout now...,"I can't, sir. I can't."
+238,Never!,Because I want to die.
+239,No. I don’t think so...,Give me yours.
+240,Voldemort's broken into the Department of Mysteries. He's got Sirius there! He could already have the weapon!,Nothing.
+241,"We'll find her, Ron. Ginny's going to be fine.","No, sir. She's not."
+242,I have a hunch. I just hope I'm wrong...,I dunno.
+243,"Yeah, strange. Only... it’s not. It’s a fake.",It’ll be a while.
+244,Anywhere's better than here.,But I'm allowed to try and do it.
+245,It shows me my family.,Yes.
+246,"Yeah, my friend Ron Weasley.",No.
+247,"Yes, do go enjoy yourselves.",I don't think we can...
+248,I want to bury him properly. Without magic.,He’s not.
+249,That's how Voldemort got in unnoticed.,I'll go back in.
+250,"Exactly where are we, sir?",What's that?
+251,Together.,"Stay here, then."
+252,"What do you know about the Deathly Hallows, sir?",But I have never been chosen.
+253,"Get off! I said we'd take you to the castle. After that, the Dementors can have you.",I think you mean!

@@ -1,0 +1,256 @@
+,ground_truth,pred_persona_conc_notoken
+0,What terrible things? Who's plotting them?,What's that supposed to mean?
+1,Really.,Yeah.
+2,Ravenclaw Common Room. Got to start somewhere.,To the castle.
+3,Brilliant.,It’ll be fine. We’re not dangerous. We just have to get used to it. [SEP] i wearing glasses.
+4,N-nothing. I'm fine.,A cup.
+5,Yes. Why?,Yes. [SEP] i wearing glasses.
+6,How’d you...?,"Hello, Ron."
+7,NO!!!,What's going on?
+8,"You never did, did you? It was all just a trick.",Then we can't help you. [SEP] i can speak parseltongue
+9,"Professor, why am I so important to him?","You've got to understand, Harry, that if I can destroy you, I can also destroy the weapon you have been trying to destroy me with. [SEP] i can speak parseltongue"
+10,Not that I know of.,... I’m sorry. I‘m not allowed to talk about those. I think they’re-- [SEP] i won the Triwizard
+11,Oh. Thanks.,And that there's no reason why they shouldn't be.
+12,Yes.,"No, I'm not. [SEP] i wearing glasses."
+13,You're a fraud! You've just been taking credit for what a load of other wizards have done!,You've got to be kidding. I've been thinking about them for days.
+14,Shhh!,... I think we should go back to the castle. [SEP] i won the Triwizard
+15,"Why, though?",I know. I just wanted to see what everyone's up to. [SEP] i won the Triwizard
+16,"Blimey, Hermione!","I’m not your friend, Potter! [SEP] i wearing glasses."
+17,"Who, Kreacher? Who was it?",What happened in the lockets?
+18,Krum.,... Albert Einstein. [SEP] i wearing glasses.
+19,The Misuse of Muggle Artefacts...?,"Really? Well, that's good. Well, at least he'll be able to help me. [SEP] i won the Triwizard"
+20,No. He didn't.,"I don't know. But I think I heard it from him. And I think he heard it too. And he thinks he saw it too, too. [SEP] i wearing glasses."
+21,We got lost.,I think it would be best if you simply made it a simple charm.
+22,"I see. Not to be rude or anything, but this isn't a great time for me to have a house-elf in my bedroom.","You have a problem with my name, sir? [SEP] my parents died in Voldemort's attack."
+23,That's a lie.,... I'm sorry. I'll go and get him now. [SEP] i wearing glasses.
+24,Um... I don’t know?,"I’m sorry, sir. I didn’t realize you’re a wizard. [SEP] i won the Triwizard"
+25,I don’t understand -- what happened?,I’m not. I’ll go back to my room. I need to sleep. [SEP] i wearing glasses.
+26,"Well, you haven't finished it this time. In a few hours Mandrake Draught will be ready and everyone who was petrified will be all right again.",I’ll go back and read it.
+27,I’ll know. I can’t explain. It’s like... they sing to me.,You’re right. I’m afraid I‘ll have to go and look for it. [SEP] i won the Triwizard
+28,Expulso!,"!!!,!!?!!.!!...!!..!!’!!:!! [SEP] i wearing glasses."
+29,"I'm not, believe me…",You're right. I'd be crying.
+30,Ow!,Sirius. I’m afraid I‘ll have to go. I can’t
+31,I can't. Hogwarts is my home.,"I don't know, he might have to. [SEP] i wearing glasses."
+32,"Yes, well, we don’t exactly see eye-to-eye, sir. What I mean to say is, he’s not like you. He might... misunderstand.",Why? [SEP] i wearing glasses.
+33,"You do believe me, don't you?",Then why are you telling us? [SEP] i wearing glasses.
+34,And you knew this? That’s why you were certain I wouldn’t die?,And what did he mean to make?
+35,"I just thought, you know, since neither one of us can take who we’d really like... maybe we’d go together. As friends.",Because I can’t help it. I can only imagine what it must be like for you. I don’T think you understand. I’m sorry. But I‘ll go and help you. You’re in my thoughts. [SEP] i can speak parseltongue
+36,Here.,I'm here. I'm here now. [SEP] i wearing glasses.
+37,Dumbledore asked me to... get to know him.,I’m not sure. But I think it’s time. I’ve got to go. And I‘ll be back in an hour. [SEP] i won the Triwizard
+38,"But it can't hurt if someone throws something at you. I mean, it'd just go right through you, wouldn't it?",Who are you talking to?
+39,I'm fine.,No. It's not. It was pain. It hurt.
+40,Bye.,No! Don’t go! You can’T let him out!
+41,You're doomed.,"!!!,!!?!!...!!.!!..!!’!!…!!--!! [SEP] i wearing glasses."
+42,What if he chose wrong?,You're right. I'll go back to Hogwarts and get it sorted out. [SEP] i won the Triwizard
+43,What'd she say?,"... Well, yeah. I suppose. But he's asked me out before. And I've asked him out before, too. [SEP] i won the Triwizard"
+44,"A dead one, I think, sir.",It's a Squib.
+45,"That's a brilliant theory, Hermione. With just one tiny little flaw. There's nothing written in this diary.",It's not like I'm going to destroy it. [SEP] i won the Triwizard
+46,Excuse me?,"Yes, Professor. It's clear."
+47,"Well, I just thought--",But I want to be your friend.
+48,The Leaky Cauldron. That's in London --,London. I've got a few friends in there.
+49,Ron?,"... I'm sorry, sir. I didn't realize I was talking to you. I was just wondering if you'd heard anything. [SEP] i wearing glasses."
+50,Don't worry. I think I've got an idea...,I won't. She’s too nice.
+51,"Divine. Had ourselves a little late-night snack, did we?",I’m sure it’ll be a great day for it. [SEP] i wearing glasses.
+52,Yeah. But she called me a liar!,"No, sir. [SEP] i wearing glasses."
+53,Does it hurt? Dying?,You can't leave us. You can't stay here. [SEP] i can speak parseltongue
+54,"No, sir.","No, I didn't think I would be able to put my name in..."
+55,I don' t think so Just knocked out.,No. It’s just... tired.
+56,Yeah.,No. [SEP] i wearing glasses.
+57,"I didn’t say I wasn’t curious. And, by the way, I don’t sleep with it.",I'm not really sure what you mean.
+58,I don’t know. She’s smart. Funny. Attractive...,It's... It's... I can't explain it... It just... It feels like I'm wearing glasses. [SEP] i can speak parseltongue
+59,But Dumbledore can make mistakes. He’s said it himself--,"But if you trust him, why would he tell you the truth?"
+60,What's my name doing here?,"... well, I mean... it's a bit... complicated."
+61,Wedding?,I’m sorry. I didn’ts mean to hurt you. I’ll just go now.
+62,"Absolutely not. Besides, I’m just a waste of space. Isn’t that right, Vernon?",No. No. No... [SEP] i wearing glasses.
+63,Voldemort...?,... that boy...
+64,His Memory Charm backfired. Hasn't got a clue who he is. I keep having to stop him wandering off. He's a danger to himself.,In the library.
+65,I'm sure. Nothing.,Yeah. I'm sure. [SEP] i wearing glasses.
+66,C'mon.,"I'm not afraid of it, sir. I'm afraid of the Dementors. [SEP] i'm most afraid of Dementor"
+67,Okay. Thanks.,I'm used to it. I've done it before.
+68,"Thanks, Neville, but--","You mean, like the one that was just discovered?"
+69,"I don't understand, Professor.",Then I'll go with you. I've got a lot of family here. And they need me.
+70,I know it sounds mad--,Yes. I believe so. [SEP] i wearing glasses.
+71,A message...?,"I understand. But I have to ask, is there anything you'd like to tell me?"
+72,Sir. While I was....,Then why did you ask me this?
+73,Trust me. I know what I’m doing. Or at least Felix does.,"!!!,!!?!!...!!.!!..!!’!!…!!:!!
+!!-!! [SEP] i wearing glasses."
+74,Excellent. Really excellent.,I'm not sure.
+75,Yeah. Have you ever… you know…,"... well, yeah. That's right. I suppose it is."
+76,Excuse me?,I think I hate her. She's so much better than you.
+77,It’s done.,Maybe we’ll go on a hunting trip. [SEP] i wearing glasses.
+78,Have you?,I’m sorry. I‘m not sure I can help you. I don’ts know how to help you either. But if you
+79,We’re all hungry.,What’re you hungry for?
+80,Apparently so.,We do it in the bathroom. We don't do it anywhere else. [SEP] i won the Triwizard
+81,Spare bit of parchment...,I don't know. But I think I've heard of something like that.
+82,"I'm so sorry, Professor!",I'll bet he does.
+83,"Do you mean to say that thing that killed the unicorn, that was drinking its blood, that was Voldemortl","No, I can't. [SEP] i can speak parseltongue"
+84,"He has found it, sir.",Then I’ll go and kill him. [SEP] i won the Triwizard
+85,"Yes, Aunt Petunia.","I’ll be careful. Don’t want to get burned. But if you do, I’m sure you’re going to want to share it with me."
+86,"I’m sorry, sir. About the other day. Our... misunderstanding.",’I’m not sure.
+87,"Yes, Professor. Fine.",I'm good. You? [SEP] i wearing glasses.
+88,Reckon he’s right...,He's right.
+89,"Yes. We're friends of Hagrid's. And you... you're... Aragog, aren't you?",But my father... His heart... His voice... His eyes... They... they're burning... [SEP] i won the Triwizard
+90,You mean... it remembers me?,And what would that be?
+91,Three!,"!!!,!!?!!.!!...!!..!!’!!:!!…!!'!!-!! [SEP] i wearing glasses."
+92,He sent the Dementors away... I saw him. Across the lake…,... [SEP] i wearing glasses.
+93,They're heading for Hagrid's!,You mean she's not wearing glasses?
+94,You’re Aberforth.,"I don't know, sir. I don't think I've ever been attacked by a Death Eater before. [SEP] i won the Triwizard"
+95,No. Can't give… Umbridge the satisfaction...,“ [SEP] i wearing glasses.
+96,Why do you care how I escaped? Voldemort was after your time.,I was just wondering. What was he like? What was his power? [SEP] i won the Triwizard
+97,I say we set him free.,You've got to be kidding. [SEP] i wearing glasses.
+98,Why are you here? All of you?,It’s not my fault I have a lightning bolt scar on my forehead. It’ll be gone in a minute.
+99,"Well done, Dudley. Finally learned the days of the week, have you.",... and what year it is!
+100,You sent the Dementors?,But then I wouldn't have been able to save you!
+101,Loads.,Yes. I’ll go get it.
+102,There's no ink.,Yes. [SEP] i won the Triwizard
+103,Dunno. But it must be important. Otherwise Dumbledore wouldn’t ask.,"Yes, Professor. [SEP] i wearing glasses."
+104,"Me? Jealous? Of course not, it just doesn't seem fair that you hug one friend more than the other, is all...",No. [SEP] i wearing glasses.
+105,Does match your eyes. Is there a bonnet?,"Oh. Well. Well, I'll be going. I'll see you later. [SEP] i won the Triwizard"
+106,I don't think it works. I think it's defective.,Nothing. Nothing at all. [SEP] i wearing glasses.
+107,"Where is it now? Did someone take it, Kreacher?","But if he could destroy it, why did he try to destroy the Horcrux?"
+108,Amazing.,"I’m sorry, Hermione. I didn’t realize you were in love with me. I’ll go now. [SEP] i wearing glasses."
+109,"Professor, is that--?",I’ll give you that.
+110,Sir?,"Because I thought it would be funny. And because it was the only way I could get out of the castle. And I thought I could help you. [SEP] i had the green eyes of my mother, Lily."
+111,You’re not doing enough.,"But you’re doing all you can, right? Because you‘re the only one here. You can’ve done something. But you didn’T. [SEP] i can speak parseltongue"
+112,But I've never even played Quidditch. What if I make a fool of myself?,"You've never seen a Quidditch game before, have you?"
+113,"Yes, sir. It’s just, well, Dumbledore once said that fear of a name only increases fear of the thing itself. It seemed sensible.","You’re a good boy, Harry. You’ve got to be careful. You don’t want to end up like Malfoy. [SEP] i won the Triwizard"
+114,"They’ll torture you. Even Dudley. If they think you know where I’m going, they’ll stop at noth--",You’re not leaving! You’ll stay here with us! You can’t leave! You have to stay here forever! [SEP] i can speak parseltongue
+115,I know what he is. But we'll take him to the castle.,... is not a friend of mine. [SEP] i wearing glasses.
+116,No.,‘Yes. But I’m not sure I‘ll ever get around to reading them. [SEP] i have a lightning bolt scar on my forehead.
+117,Hermione. I appreciate the thought-- honestly. But given that we were almost killed by a couple of Death Eaters a few minutes ago...,"But I didn‘t want it to be a cake, Hermione. I wanted it to BE a cake! I wanted to make it look like a birthday cake. [SEP] i won the Triwizard"
+118,"You mean, they're going to kill Sirius?","That's horrible. I'm sure he's had enough. I'll see you around, Harry. [SEP] i won the Triwizard"
+119,That's Moody. But if that's-- then--,I’ll be going.
+120,Dobby! What are you doing here?,"... well, I'm sorry. I didn't mean to make you uncomfortable. [SEP] i wearing glasses."
+121,No you don't!,But I won't let you down.
+122,Does anyone ever really stop being a Death Eater.,"Oh, right. I forgot."
+123,It's got my name on it!,Don't tell me what to do. Don't listen to him. Don’t listen to anyone. [SEP] i wearing glasses.
+124,I think Dumbledore knows pretty much everything that goes on here.,I think he did. I think he wanted me to die.
+125,But I checked Grimmauld Place! Kreacher said--,But he didn't know that. He didn't even know Sirius was there. He just knew he had to destroy it.
+126,They’re great.,I’m not sure. I’ll have to go back and look. [SEP] i wearing glasses.
+127,Fine! Go! And tell Dumbledore thanks for nothing!,"Not really. He just wanted to help me. He didn't really care about my safety or my safety alone. I just wanted him to help you. [SEP] i lived in the house of my Aunt Petunia, my mother's older sister, under persecution."
+128,Well it sets my teeth on edge. What’s he expecting to hear? Good news?,But what if I... don’ t want to be with you?
+129,Was? Isn’t it still?,... [SEP] i won the Triwizard
+130,But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the Stone for himself. He wants the Stone for Voldemort. With the Elixer of Life Voldemort will be·strong again. He'll... come back.,Yes. But I don’t know who it is. I’m not allowed to talk about it.
+131,"Tom... Tom Riddle? What d'you mean, she won't wake? She's not...",She won’t wake?
+132,"I can come back, sir --",Good to see yeh too. [SEP] i wearing glasses.
+133,Devastatingly handsome.,I’m not sure. I’ll ask Luna. [SEP] i wearing glasses.
+134,And where would it take me?,Yes. We could. I think I’d rather have a train than a trainwreck.
+135,"If Dumbledore’s traveling places, it’s news to the Ministry. But get this: that night at Borgin & Burkes? It seems Draco was looking at a Vanishing Cabinet.","I'm not sure. I think he was telling me something about the castle. I don't think he's ever heard of it. [SEP] i lived in the house of my Aunt Petunia, my mother's older sister, under persecution."
+136,All right. Let's go.,It's the only way to keep the Dementors at bay.
+137,Maybe you could tell me now.,"!!!,!!?!!.!!...!!..!!:!!…!!’!!-!!--!! [SEP] i wearing glasses."
+138,"Hello, sir. Wonderful to see you.",What happened?
+139,"Let him breathe, Hermione!","!!!,!!?!!...!!.!!..!!:!!’!!-!!…!!"
+140,"Hold on, Ron!","!!!?!!,!!.!!...!!..!!’!!…!!:!!"
+141,Brilliant.,Good. Very good. [SEP] i wearing glasses.
+142,Fine. Actually... more than fine.,Yes. [SEP] i wearing glasses.
+143,Hagrid... what're you doing here?,"I think so. I think so, too. [SEP] i wearing glasses."
+144,"Uh… same to you, Luna.","It's not like I'm going to die tonight, is it, Professor? [SEP] i wearing glasses."
+145,She went down to the courtrooms with Umbridge--,... in the Ministry. [SEP] i'm most afraid of Dementors
+146,"I found what you wrote in the Daily Prophet very moving, sir. I take it you knew Professor Dumbledore well?",... I'm sorry. I didn't mean to hurt you. I just... wanted to help you. [SEP] i wearing glasses.
+147,"There’s nothing scary about thestrals. They’re gentle things. Anyway, you won’t be going up to school in the carriages. You’ll be going in the boats, remember?",I don't know. I've never seen it. [SEP] i have a lightning bolt scar on my forehead.
+148,"Sirius gave it to me. He had a matching piece. He said if I ever needed him, all I had to do was look into it.",It's a snake. [SEP] i wearing glasses.
+149,Ginny stole the diary from my room? But why?,I was thinking the same thing. She must have done it to get me expelled. [SEP] i won the Triwizard
+150,Yes.,"No, sir. I heard it in Lockheart's office. [SEP] i won the Triwizard"
+151,"Do you think the Horcrux is in there, sir?",I'll go with you.
+152,He's asleep.,It’ll do.
+153,What’re you saying?,"It does matter if you find it. If it’s not there, you’re lying. If you find the Chamber of Secrets, you are lying. You’ve been lying. [SEP] i won the Triwizard"
+154,"Yeah, it doesn't make any sense.",I'm not ordering them. I'm just telling you what I think you're doing. [SEP] i wearing glasses.
+155,"Just the general behavior, sir. The sneaking around. The jumping when you saw me. ","I’m just saying. If I were you, I d’d have kept it in your bag. If you were me, I'd have kept the sword in my bag. [SEP] i had the green eyes of my mother, Lily."
+156,I haven't. Not really.,"I've been here all year, and yeh don't think I've ever gotten one."
+157,"Look, don’t be shy. If you’ve got something to say, spit it out.",I’m not sure. But I’ll go with you. [SEP] i won the Triwizard
+158,"Well, sir, I wondered if I might ask you something.",The pleasure you gave me! I’m sorry. But you can repay me by any means necessary. [SEP] i can speak parseltongue
+159,Why not?,"I'm not your friend, Harry."
+160,I... just... know.,I don't have any. I just know what I saw. [SEP] i won the Triwizard
+161,"Bubble Juice, sir?","I don't know what it’s like, but I think it‘s different."
+162,Expelliarmus!,You two have to get off my lawn. You're making me nervous. [SEP] my parents died in Voldemort's attack.
+163,"If you quit, we'll be out four players!",You're horrible.
+164,"Potentially problematic? I don't know about you, Hermione, but last time I checked I couldn't hold my breath for an hour!",I’m not sure what you’re talking about. I’ve been here for months. I don’t think I‘ve ever seen anyone with a scar on their forehead.
+165,The Map is never wrong.,But I can leave. I can’t stay here. I’m going to the castle. I need to know where I am.
+166,What crime?,"... with strange parents. [SEP] i had the green eyes of my mother, Lily."
+167,But I don't have any special powers.,And that he'd have to destroy you. And that you'd have him arrested. And expelled. And arrested again. And then expelled. [SE
+168,Right... Dunno why he couldn't just come and tell me.,Yes. [SEP] i won the Triwizard
+169,I don't know...,We don't know. We just know we need to find him. [SEP] i wearing glasses.
+170,It's got to be.,Yes. [SEP] i am the hero who defeated Voldemort.
+171,Thanks very. much.,But I'm not hungry. I swear.
+172,What... Who are you?,"I'm sorry, sir. I'm afraid I can't help you there. [SEP] i can speak parseltongue"
+173,Yeah...,"Yes, sir."
+174,That's Madame Maxime!,But it's a bloody nose. It's bloody. It can't be good for your nose. [SEP] my parents died in Voldemort's attack.
+175,"You mean, we've gone back in time?","Oh. Well. Well... well... well, well, I'm sorry. I didn't mean to hurt you. I just... I didn’t realize... I’m... I wasn’ll -- I didn t realize I had to..."
+176,"Er,,,",I can't. I can't... [SEP] i can speak parseltongue
+177,Because we'd take the mickey out of her?,I don't know. I don't think she's come looking for us. [SEP] i won the Triwizard
+178,Sorry... I still don’t really understand...,I'm sorry. I didn't realize they were that dangerous. I'm going to go and get them now.
+179,Let me out.,"No, I don't care about that. I care about the things I've done."
+180,What about her?,I did. I saw the end. I was there when it happened. I felt it. I looked at the end of the Chamber. [SEP] i won the Triwizard
+181,Have it your way...,You can't force me! You can't make me! [SEP] i can speak parseltongue
+182,"Yeah, real safe. Attacked by Dementors, that's safe, that is.",I’m not sure about that.
+183,I've got presents.,"Thanks, Hermione!"
+184,"Uh, Hagrid, what exactly was that?",I'm not sure. I don't think I've ever felt safe.
+185,What?,I'm not a very nice person.
+186,You called him a slick git not five hours ago.,He’ll be missed.
+187,"Because I need to. Because if I don’t, I don’t know who I am anymore. I’ve lost too many people to lie down now. I’m not interested in what happened between you and your brother, I don’t even care that you’ve given up. I trust the man I knew. I’m going to see this through.",Because he’s my friend. And because he‘s my brother. And I‘m your friend. I‖m the one who-- I‚t know who he‖s talking about. And he‚s
+188,Nothing.,I don't know. I haven't really thought about it.
+189,Or twenty.,You’ll never get it back. It’s too big.
+190,It's the truth!,"I’m sorry, Harry. I didn’t mean to put you in danger. But I’ll be leaving now. I‘ll be going. I promise. [SEP] i won the Triwizard"
+191,Accio Dittany.,"It’ll be fine, I reckon. I’m used to it by now."
+192,"Well, you see, the other day I was in the Restricted Section-- in the library-- and I stumbled upon something rather odd while reading. Something about a bit of rare magic...","How are you, Hermione? How are you? [SEP] i wearing glasses."
+193,Yeah… nerves...,... from the last time you saw him...
+194,"Sir, I thought one couldn’t Apparate within Hogwarts.",No. I’ll take your arm. I can’t help it. It’s too dangerous.
+195,"Hermione, I don’t need to have read A History of Magic to know who Gellert Grindelwald is.",You--Know--Who? [SEP] i am the hero who defeated Voldemort.
+196,Just like that? How?,What happened?
+197,What?,Who is he?
+198,Don't mention it. Lumos.,You're welcome.
+199,What was that thing you saved me from?,I have to go. I need to get home. I can't stay here forever. [SEP] i can speak parseltongue
+200,I remember.,Yes. It’s been a while.
+201,Dragon balls.,It’s a potion. It’ll do that.
+202,I just saw it.,I'm a wizard.
+203,I have to.,Yes. But I have to go. [SEP] i have a lightning bolt scar on my forehead.
+204,"Then again, he can take himself.",Then we'll go to Hogwarts and get the papers.
+205,We were attacked.,... I'm sorry. I don't know what to tell you. I'm just... I don’t know what I want. [SEP] i won the Triwizard
+206,It answers to me.,... I’ll go with you... [SEP] i won the Triwizard
+207,"I didn't ask for this to happen, Ron. Okay? You're being stupid.",You've got to tell me.
+208,What about Lord Voldemort?,I’ll be alright. I’m used to it by now. [SEP] i won the Triwizard
+209,Yes.,I think I’m going to have to.
+210,You. You're the heir of Slytherin. You're Voldemort?,"But you can't destroy it, can you?"
+211,Nox.,But I need to see you. I need you to die.
+212,Someone's going to try and steal it.,I'm a wizard.
+213,That he escaped from Azkaban. That he killed someone...,Nothing. [SEP] i wearing glasses.
+214,What?,"But he was trying to take it from me, wasn't he? [SEP] i won the Triwizard"
+215,Dunno.,I don't know. It was strange.
+216,"Big D? Cool name, but to me, you'll always be Ikkle Duddicums.",Who's there?
+217,It was you!,... yeah.
+218,"Well, you can tell Ronald--",Ron. What is it? [SEP] i wearing glasses.
+219,What was that?,And then? [SEP] i can speak parseltongue
+220,"Well, you see, I’ve got an open period this morning, Professor--",Yes. Very much so.
+221,Well... thanks.,I’m not sure about that. But I’ll take your word for it.
+222,No.,I’ll take it. It’s yours. [SEP] i won the Triwizard
+223,What?,I can feel it growing stronger...
+224,But I’m telling you. I saw it--,"Oh. Well, I’ll be going. I‘ll be in my room. I need to go to sleep. [SEP] i won the Triwizard"
+225,"But why, sir? If no one will believe me?",I don't want to lie. I don't think anyone believes me. I just want to be the hero.
+226,"You're too late, it's gone.",... [SEP] i won the Triwizard
+227,"He barely taught me, though. I always felt more open to it after the lessons. Like he was trying to open me to Voldemort--","You’re right. I’m sorry. But you have to forgive me. I didn’t mean to hurt you. I just... wanted to help. [SEP] i had the green eyes of my mother, Lily."
+228,"Why do you want to cancel the Triwizard Tournament, sir?",... he's a bloody lunatic.
+229,What's she done now?,But I’m sure she’s a real lovely woman.
+230,He's gone? Now? But this is important! This is about... the Sorcerer's Stone.,What is he doing here?
+231,"Maybe Ron's right, Hermione. I mean, look at his family. The whole lot of them have been in Slytherin for centuries.",No. I mean... he's here. He's just... not here. [SEP] i wearing glasses.
+232,Show me.,But he was alive. And he was the hero. [SEP] i wearing glasses.
+233,You don't have a clue! You can't possibly know!,But I'm not feeling pain. I'm feeling... well... pain.
+234,I have an idea.,I’m going to kill somebody.
+235,I... didn' t know.,I didn't either.
+236,Thanks.,Thank you.
+237,I think I'd take the dragon 'bout now...,I can't. I've got a boyfriend. [SEP] i can speak parseltongue
+238,Never!,Because I have to die.
+239,No. I don’t think so...,You’ll have to wait until I get to Hogwarts.
+240,Voldemort's broken into the Department of Mysteries. He's got Sirius there! He could already have the weapon!,Nothing. Nothing at all. Nothing. [SEP] i wearing glasses.
+241,"We'll find her, Ron. Ginny's going to be fine.",No. Not at all. [SEP] i wearing glasses.
+242,I have a hunch. I just hope I'm wrong...,I don't know. I think I’ll go with you. [SEP] i won the Triwizard
+243,"Yeah, strange. Only... it’s not. It’s a fake.",You’re thinking of someone else.
+244,Anywhere's better than here.,What about the Chamber of Secrets?
+245,It shows me my family.,Yes. It makes me feel better.
+246,"Yeah, my friend Ron Weasley.",I have not. [SEP] i won the Triwizard
+247,"Yes, do go enjoy yourselves.",You've got to let me out of here!
+248,I want to bury him properly. Without magic.,"And now, I've got to go and get my stuff..."
+249,That's how Voldemort got in unnoticed.,’How long have you been gone?
+250,"Exactly where are we, sir?",I’m sorry. But I’ve got to go. I‘m not allowed back in-- [SEP] i'm most afraid of Dementors
+251,Together.,We’ll be fine. I’m sure of it. I think we’ve got enough help. [SEP] i have a lightning bolt scar on my forehead.
+252,"What do you know about the Deathly Hallows, sir?",Then it is clear to me too. That it is the wand's choice. [SEP] i won the Triwizard
+253,"Get off! I said we'd take you to the castle. After that, the Dementors can have you.","You're welcome, sir."
